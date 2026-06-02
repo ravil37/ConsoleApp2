@@ -17,7 +17,7 @@ namespace ConsoleApp2
                 writer.WriteLine("- Меня зовут Равиль");
                 writer.WriteLine("- Мне 18 лет");
                 writer.WriteLine("- Я учусь программированию");
-                writer.WriteLine("- Мое хобби - спать");
+                writer.WriteLine("- Мое хобби - играть");
                 writer.WriteLine("- Мечтаю стать разработчиком");
             }
             using (StreamReader reader = new StreamReader(fileName))
